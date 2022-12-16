@@ -4,5 +4,5 @@
 
 # Play The Game Here
 
-https://knockcat.github.io/Whack-A-Mole-Game/HTML/index.html
+
 
