@@ -20,10 +20,10 @@ Link: https://jitesh-silhi.github.io/WhackAMole/
 ## **5. Screenshot of the Interface**
 ![image](https://user-images.githubusercontent.com/85362504/197470420-40fc75ba-762c-4168-8b3b-e6fe9580ebe8.png)
 
-<hr>
+
 ![image](https://user-images.githubusercontent.com/76107845/208168910-508b33e2-36f8-4cbe-a6cf-d4001d7823be.png)
 
-<hr>
+
 
 
 https://user-images.githubusercontent.com/76107845/208169460-4d9c0761-d76a-41b5-b0ab-0e67666f0d10.mp4
