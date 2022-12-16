@@ -1,15 +1,25 @@
 # Whack-A-Mole-Game
 
 
-## **1. Methodology**
-<img src="https://user-images.githubusercontent.com/7460892/207003643-e03c8964-3f16-4a62-9a2d-b1eec5d8691f.png" width="80%" height="80%">
+## **1. Inspiration**
+
+Have you ever seen the game Whack a mole shown below:
+![images](https://user-images.githubusercontent.com/76107845/208170348-6445c21f-891b-4618-8612-008d92d92ae1.jpg)
+
+This mini game is the minimal implementation of this real world game using HTML, CSS and JavaScript
+
 
 
 ## **2. Description**
-<img src="https://user-images.githubusercontent.com/7460892/207003772-ba2061bc-f8fd-4479-ba42-4712328b7085.png" width="80%" height="80%">
+### This is a JavaScript game in which you have to click on the mole when you see a mole.
+### Whenever you hit a mole your score increases.
+### After 60 seconds the game stops and you get your final score.
+### You have the option to pause the game in between and start new game from between the game.
 
 
 ## **3. Input / Output**
+
+### You start the game and hit the mole by clicking on it using a mouse or track pad.
 ![image](https://user-images.githubusercontent.com/85362504/197470420-40fc75ba-762c-4168-8b3b-e6fe9580ebe8.png)
 
 
