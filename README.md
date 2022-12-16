@@ -14,7 +14,7 @@
 
 
 ## **4. Live link**
-Link: www.FacialExpressionRecognition.com
+Link: https://jitesh-silhi.github.io/WhackAMole/
 
 
 ## **5. Screenshot of the Interface**
