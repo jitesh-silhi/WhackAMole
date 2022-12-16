@@ -12,10 +12,10 @@ This mini game is the minimal implementation of this real world game using HTML,
 
 
 ## **2. Description**
-### This is a JavaScript game in which you have to click on the mole when you see a mole.
-### Whenever you hit a mole your score increases.
-### After 60 seconds the game stops and you get your final score.
-### You have the option to pause the game in between and start new game from between the game.
+#### This is a JavaScript game in which you have to click on the mole when you see a mole.
+#### Whenever you hit a mole your score increases.
+#### After 60 seconds the game stops and you get your final score.
+#### You have the option to pause the game in between and start new game from between the game.
 
 
 ## **3. Input / Output**
