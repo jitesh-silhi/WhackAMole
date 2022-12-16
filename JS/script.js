@@ -64,7 +64,7 @@ function pauseResumeGame() {
     } else {
         gameMusic.play();
         timerId = setInterval(randomMole, 1000);
-        randomMoleId = setInterval(countDown, 1000);
+        randomMoleId = setInterval(countDown, 500);
         pauseGameButton.textContent = 'Pause';
     }
 }
@@ -74,7 +74,7 @@ squares.forEach(square => {
         if (timerId !== null) {
             if (square.id === hitPosition) {
                 hitMusic.play();
-                setTimeout(() => { hitMusic.pause() }, 1000);
+                setTimeout(() => { hitMusic.pause() }, 500);
                 score++;
                 scoreH2.innerHTML = `Your Score ${score}`;
                 hitPosition = null;
