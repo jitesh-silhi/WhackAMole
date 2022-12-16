@@ -4,6 +4,7 @@
 ## **1. Inspiration**
 
 Have you ever seen the game Whack a mole shown below:
+<br>
 ![images](https://user-images.githubusercontent.com/76107845/208170348-6445c21f-891b-4618-8612-008d92d92ae1.jpg)
 
 This mini game is the minimal implementation of this real world game using HTML, CSS and JavaScript
